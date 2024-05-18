@@ -1,2 +1,2 @@
-# dbtdemo
-The repo contains the dbtdemo repository
+# portfolio-tracking-dbt-project
+The repo contains the portfolio-tracking-dbt-project repository
