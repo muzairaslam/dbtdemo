@@ -41,5 +41,5 @@ models:
         +schema: MART_PORTFOLIO
 
 snapshots:
-  portfolio_tracking:
+  portfolio_tracking_project:
     +target_schema: SNAPSHOTS
